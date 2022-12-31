@@ -84,7 +84,9 @@ body {
 }
 
 .portfolio-nav button:hover,
-.portfolio-nav button:focus {
+.portfolio-nav button:focus,
+.hero button:hover,
+.hero button:focus {
   background: #f4f4fd;
   color: #4d5ae5;
 }

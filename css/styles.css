@@ -62,6 +62,10 @@ body {
   list-style-type: none;
 }
 
+.address {
+  font-style: normal;
+}
+
 /* hero */
 .hero {
   background-color: var(--main-color-h);
@@ -93,9 +97,6 @@ body {
   letter-spacing: 0.04em;
   color: var(--button-bg);
   cursor: pointer;
-}
-.portfolio-nav .button {
-  font-weight: 600;
 }
 
 .portfolio-nav button:hover,
